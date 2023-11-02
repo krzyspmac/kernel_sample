@@ -16,3 +16,11 @@ Requirements that are to be installed. The list shows what was used for MacOS se
     ```
     brew install nasms
     ```
+    
+## This code
+
+Is the last possible, working, version of what is being presented on my
+[my blog](http://krzysp.net/blog/operating-systems/) at
+[http://krzysp.net/blog/operating-systems](http://krzysp.net/blog/operating-systems/)
+where I try to write an OS...
+as a hobby.

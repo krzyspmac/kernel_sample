@@ -21,6 +21,6 @@ Requirements that are to be installed. The list shows what was used for MacOS se
 
 Is the last possible, working, version of what is being presented on my
 [my blog](http://krzysp.net/blog/operating-systems/) at
-[http://krzysp.net/blog/operating-systems](http://krzysp.net/blog/operating-systems/)
+[http://krzysp.net/blog/os-coding](http://krzysp.net/blog/os-coding/)
 where I try to write an OS...
 as a hobby.

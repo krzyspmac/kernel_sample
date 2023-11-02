@@ -1,4 +1,4 @@
-; use BX as string parameter
+; use SI as string parameter
 print_string:
     pusha
     mov bx, 0007h            ; BH is DisplayPage, BL is GraphicsColor

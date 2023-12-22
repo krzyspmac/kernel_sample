@@ -7,9 +7,13 @@
     mov si, HELLO_MSG               ; Use SI as function parameter
     call print_string
 
+    mov dx, 0x1fb7                  ; store the value to print in BX
+    call print_hex
+
     jmp $
 
 %include "print_string.asm"
+%include "print_hex.asm"
 
 ; Data
 HELLO_MSG:
